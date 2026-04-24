@@ -21,4 +21,4 @@ This project is a modern, fully responsive landing page designed to demonstrate 
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-You can view the live project here: https://shiksha-arya-raushan-dev.github.io/PRODIGY_1/
+You can view the live project here: https://shiksha-arya-raushan.github.io/PRODIGY_1/index.html
